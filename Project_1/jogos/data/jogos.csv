@@ -1,0 +1,17 @@
+id,titulo,genero,plataforma,ano_lancamento,disponivel
+1,The Witcher 3: Wild Hunt,RPG,PC,2015,True
+2,Elden Ring,RPG,Multiplataforma,2022,False
+3,God of War: Ragnarök,Ação,PlayStation 5,2022,False
+4,The Legend of Zelda: Tears of the Kingdom,Aventura,Nintendo Switch,2023,False
+5,Red Dead Redemption 2,Ação-Aventura,PC,2018,True
+6,Cyberpunk 2077,RPG,PC,2020,True
+7,Horizon Forbidden West,Ação-RPG,PlayStation 5,2022,True
+8,Starfield,RPG,Xbox Series X,2023,True
+9,Super Mario Bros. Wonder,Plataforma,Nintendo Switch,2023,True
+10,Baldur's Gate 3,RPG,PC,2023,True
+11,Call of Duty: Modern Warfare III,FPS,Multiplataforma,2023,True
+12,Minecraft,Sandbox,Multiplataforma,2011,True
+13,Grand Theft Auto V,Ação,Multiplataforma,2013,True
+14,The Last of Us Part II,Ação-Aventura,PlayStation 4,2020,True
+15,Animal Crossing: New Horizons,Simulação,Nintendo Switch,2020,True
+16,Resident Evil Village,Survival Horror,Multiplataforma,2021,True

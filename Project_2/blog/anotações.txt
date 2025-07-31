@@ -1,0 +1,16 @@
+# Blog Pessoal API
+
+API RESTful para um sistema de blog pessoal, desenvolvida com **FastAPI**, **SQLModel** e **Alembic**. Permite o gerenciamento completo de usuários, posts, categorias, comentários e curtidas.
+
+---
+
+🚀 Tecnologias Utilizadas
+
+- **Python 3.12+**
+- **FastAPI** — Framework para APIs modernas
+- **SQLModel** — ORM baseado em SQLAlchemy + Pydantic
+- **SQLite** — Banco de dados leve para desenvolvimento
+- **Alembic** — Controle de migração de banco de dados
+- **Loguru** — Sistema de logs avançado
+
+---

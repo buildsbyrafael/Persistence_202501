@@ -1,0 +1,10 @@
+2025-05-12 20:43:32,467 - INFO - Carregados 17 jogos do CSV
+2025-05-12 20:44:02,061 - INFO - Jogos excluído | ID: 17
+2025-05-12 20:44:02,061 - INFO - Jogo excluído | ID: 17
+2025-05-12 20:44:11,397 - WARNING - Tentativa de excluir jogo não encontrado | ID: 17
+2025-05-12 20:44:43,191 - INFO - Carregados 16 jogos do CSV
+2025-05-12 20:44:43,192 - INFO - Filtro aplicado | Jogos encontrados: 5
+2025-05-12 20:44:55,408 - INFO - Carregados 16 jogos do CSV
+2025-05-12 20:44:55,409 - INFO - Filtro aplicado | Jogos encontrados: 1
+2025-05-12 20:45:20,986 - INFO - Arquivo jogos.zip criado com sucesso
+2025-05-12 20:45:20,987 - INFO - Arquivo ZIP de jogos gerado com sucesso

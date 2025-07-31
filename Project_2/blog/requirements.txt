@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlmodel
+sqlalchemy
+pydantic
+python-dotenv
+alembic
+fastapi[all]
+
+# Logs
+loguru
+
+# Para uploads futuros
+python-multipart
